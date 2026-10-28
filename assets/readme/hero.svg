@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="316" viewBox="0 0 1200 316" role="img" aria-labelledby="title desc">
+<title id="title">Grafting and Fathoming</title>
+<desc id="desc">EMNLP 2026 Main. From skills to executable environments, from verified trajectories to frontier-targeted training.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102d29"/><stop offset="1" stop-color="#102128"/></linearGradient>
+  <linearGradient id="stem" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#5dc5a9"/><stop offset="1" stop-color="#eac079"/></linearGradient>
+  <clipPath id="clip"><rect width="1200" height="316" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="316" rx="24" fill="url(#bg)"/>
+  <circle cx="1135" cy="55" r="238" fill="#4eb196" opacity=".045"/>
+  <circle cx="1135" cy="55" r="178" fill="none" stroke="#6bba9e" stroke-width="1" opacity=".12"/>
+  <circle cx="1135" cy="55" r="115" fill="none" stroke="#6bba9e" stroke-width="1" opacity=".12"/>
+  <path d="M846 337 Q922 173 1244 190" fill="none" stroke="#eac079" stroke-width="1" opacity=".13"/>
+  <path d="M910 352 Q971 221 1232 238" fill="none" stroke="#6bba9e" stroke-width="1" opacity=".13"/>
+  <rect x="62" y="49" width="5" height="18" rx="2.5" fill="#eac079"/>
+  <text x="82" y="64" fill="#b4d4c9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="650" letter-spacing="2.4">EMNLP 2026 · MAIN CONFERENCE</text>
+  <text x="60" y="152" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="76" font-weight="760" letter-spacing="-2.8"><tspan fill="#f3faf7">Grafting</tspan><tspan fill="#8ab2a6" font-weight="400"> &amp; </tspan><tspan fill="#edc27a">Fathoming</tspan></text>
+  <text x="64" y="202" fill="#bbd0ca" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22">Executable environments. Verified trajectories. Frontier-targeted training.</text>
+  <line x1="64" y1="237" x2="114" y2="237" stroke="#5bbda1" stroke-width="2"/>
+  <text x="64" y="270" fill="#84ac9f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="600" letter-spacing="2.3">SYNTHESIZE  →  VERIFY  →  PROBE  →  TRAIN</text>
+  <g transform="translate(1002 107)" fill="none" stroke="url(#stem)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 125 V57 M44 92 L5 57 M44 77 L87 42 M44 58 L40 14"/>
+    <path d="M5 57 C-6 35 9 16 26 18 C34 34 26 53 5 57Z"/>
+    <path d="M87 42 C67 20 80 2 103 3 C115 23 105 39 87 42Z"/>
+    <circle cx="40" cy="13" r="7" fill="#14372f"/>
+    <circle cx="44" cy="125" r="6" fill="#14372f"/>
+    <circle cx="44" cy="77" r="4" fill="#14372f"/>
+    <path d="M16 144 H79" opacity=".5"/>
+  </g>
+</g>
+</svg>
