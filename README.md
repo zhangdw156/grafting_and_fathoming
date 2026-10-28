@@ -18,9 +18,9 @@ Likang Wu · Hongke Zhao · Ming He · Jianping Fan
 <p>
 <a href="https://aclanthology.org/2026.emnlp-main.305.pdf"><b>Paper PDF ↗</b></a>
 &nbsp; · &nbsp;
-<a href="#resources"><b>Open resources</b></a>
+<a href="#open-resources"><b>Open resources</b></a>
 &nbsp; · &nbsp;
-<a href="#results"><b>Main results</b></a>
+<a href="#main-results"><b>Main results</b></a>
 &nbsp; · &nbsp;
 <a href="#citation"><b>Citation</b></a>
 </p>
@@ -37,8 +37,6 @@ Likang Wu · Hongke Zhao · Ming He · Jianping Fan
 <p align="center">
 <img src="assets/readme/pipeline.png" width="100%" alt="The Grafting and Fathoming pipeline: skill seeds, environment synthesis, task and trajectory generation, verification, probing, selection, and training.">
 </p>
-
-<a id="resources"></a>
 
 ## Open resources
 
@@ -75,8 +73,6 @@ Likang Wu · Hongke Zhao · Ming He · Jianping Fan
 
 Each dataset page includes download instructions and its data format. The [Grafting README](https://github.com/zhangdw156/grafting#readme) covers installation, pipeline commands, probing, and the released training and evaluation integrations.
 
-<a id="results"></a>
-
 ## Main results
 
 Two rounds of Fathoming starting from **Qwen3-4B-Instruct-2507** produce **Fathom-4B**. The paper reports accuracy (%) below; gains are percentage points.
@@ -88,8 +84,6 @@ Two rounds of Fathoming starting from **Qwen3-4B-Instruct-2507** produce **Fatho
 | **Gain** | **+17.7** | **+12.0** |
 
 See the [published paper](https://aclanthology.org/2026.emnlp-main.305/) for evaluation settings, ablations, and limitations.
-
-<a id="citation"></a>
 
 ## Citation
 
