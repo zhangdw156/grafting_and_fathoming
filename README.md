@@ -6,7 +6,7 @@
 
 <p>
 Dawei Zhang · Yubin Huangfu · Kyle Yusong Yao · Boyu Wei · Zongqi Han<br>
-Likang Wu · Hongke Zhao · Ming He · Jianping Fan
+Likang Wu · Hongke Zhao · Ming He<sup>*</sup> · Jianping Fan
 </p>
 
 <p>
